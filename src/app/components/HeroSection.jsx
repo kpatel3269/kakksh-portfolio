@@ -39,7 +39,7 @@ const HeroSection = () => {
           </h1>
 
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl max-w-3xl">
-            CS @ UNC Charlotte (May 2026). I build production-ready web apps, REST APIs, and AI-assisted workflows —
+            CS @ UNC Charlotte (May 2026). I build production ready web apps, REST APIs, and AI-assisted workflows
             from database schema to deployment.
           </p>
 
