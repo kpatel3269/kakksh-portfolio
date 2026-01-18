@@ -72,7 +72,7 @@ const AboutSection = () => {
           <h2 className="text-4xl font-bold text-white mb-4">About</h2>
 
           <p className="text-base md:text-lg text-[#ADB7BE] leading-relaxed">
-            I’m a computer science student focused on building reliable software end-to-end clean UIs, scalable APIs,
+            I’m a Computer Science student focused on building reliable software end-to-end clean UIs, scalable APIs,
             and data-backed systems. I enjoy shipping features that are measurable, maintainable, and ready for real users.
           </p>
 
